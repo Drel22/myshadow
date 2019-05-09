@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootView"
+    android:layout_width="168dp"
+    android:layout_height="168dp"
+    android:padding="6dp"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:descendantFocusability="blocksDescendants">
+
+    <ImageView
+        android:id="@+id/productImage"
+        android:layout_width="168dp"
+        android:layout_height="168dp"
+        android:gravity="center"
+        android:maxHeight="168dp"
+        android:maxWidth="168dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/ic_local_see_black_24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <ImageView
+        android:id="@+id/colorSquare"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:paddingEnd="10dp"
+        android:paddingBottom="10dp"
+        android:layout_gravity="bottom|end"
+        app:srcCompat="@drawable/ic_person_black_24dp"
+        android:tint="@android:color/holo_red_dark"
+        android:visibility="gone"
+        />
+
+    <FrameLayout
+        android:id="@+id/likePart"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_margin="12dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true">
+
+
+        <ImageView
+            android:id="@+id/like"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/ic_liked_unfilled" />
+    </FrameLayout>
+
+</RelativeLayout>

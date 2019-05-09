@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "882467812386",
+    "firebase_url": "https://myshadow-expo.firebaseio.com",
+    "project_id": "myshadow-expo",
+    "storage_bucket": "myshadow-expo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882467812386:android:fd37a7fdf42f5185",
+        "android_client_info": {
+          "package_name": "com.mas.ethan.mas_myshadow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMkHCeWYF5wqk_S4JKurYqpsrEbz2ubCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882467812386-9aoaje9o037s54bqbalqe29bdnag5dib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

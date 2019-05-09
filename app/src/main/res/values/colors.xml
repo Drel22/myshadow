@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d32f2f</color>
+    <color name="colorPrimaryDark">#b71c1c</color>
+    <color name="colorPrimaryReallyDark">#ef5350</color>
+    <color name="colorAccent">#cc0000</color>
+
+    <color name="grey">#bfbfbf</color>
+    <color name="white">#fff</color>
+    <color name="black">#000000</color>
+    <color name="link_blue">#4d94ff</color>
+    <color name="darkRed">#cc0000</color>
+    <color name="colordarkRed">#cc0000</color>
+
+
+
+    <color name="myshadowColor">#b77a5d</color>
+    <color name="myshadowColorDark">#98614a</color>
+
+    <color name="mcam_color_light">#FAFAFA</color>
+    <color name="mcam_color_dark">#424242</color>
+
+
+    <color name="bookmark">#FFAE42</color>
+
+
+    <color name="initialSelection">#6E493A</color>
+    <array name="skin_tones">
+        <item>#6E493A</item>
+        <item>#653E34</item>
+        <item>#5E3A2B</item>
+        <item>#5C3627</item>
+        <item>#8C7971</item>
+        <item>#987766</item>
+        <item>#835C4B</item>
+        <item>#7B4F40</item>
+        <item>#896852</item>
+        <item>#835946</item>
+        <item>#7D553A</item>
+        <item>#795133</item>
+        <item>#C2A194</item>
+        <item>#E0A08A</item>
+        <item>#A57D68</item>
+        <item>#98705B</item>
+        <item>#B58564</item>
+        <item>#AD6E54</item>
+        <item>#A46844</item>
+        <item>#9F623C</item>
+        <item>#E4D1C4</item>
+        <item>#F2D0B7</item>
+        <item>#D4A484</item>
+        <item>#C99071</item>
+        <item>#D1B49F</item>
+        <item>#CCA595</item>
+        <item>#C7A28B</item>
+        <item>#C49E86</item>
+        <item>#EEE3DB</item>
+        <item>#F7E2D2</item>
+        <item>#E4C7B3</item>
+        <item>#DEBAA7</item>
+    </array>
+
+
+    <array name="fentyColors">
+        <!-- Light -->
+        <item>#fce8dd</item>
+        <item>#fadbad</item>
+        <item>#fce6d9</item>
+        <item>#fde3cc</item>
+        <item>#f2d3b2</item>
+        <item>#fce1c6</item>
+        <item>#e2c092</item>
+        <item>#efd1b7</item>
+        <item>#f4cca8</item>
+        <item>#e8bfa3</item>
+        <item>#f9d5b8</item>
+        <item>#e7c49e</item>
+        <item>#eac4a2</item>
+
+
+        <!-- Med -->
+        <item>#e9bd9b</item>
+        <item>#e2ad85</item>
+        <item>#eeba93</item>
+        <item>#dfae8a</item>
+        <item>#dfac75</item>
+        <item>#daa67e</item>
+        <item>#e5ad7e</item>
+        <item>#d9aa74</item>
+        <item>#dca77d</item>
+        <item>#d39b6c</item>
+        <item>#e6ac84</item>
+        <item>#dcb17e</item>
+
+
+        <!-- Tan -->
+        <item>#cb9364</item>
+        <item>#d28f58</item>
+        <item>#d49164</item>
+        <item>#d29056</item>
+        <item>#ad7753</item>
+        <item>#b67848</item>
+        <item>#be7b46</item>
+        <item>#cb8458</item>
+        <item>#c98659</item>
+        <item>#ac7c4b</item>
+        <item>#a86b3f</item>
+        <item>#a65f23</item>
+
+
+        <!-- Deep -->
+        <item>#9d5d2d</item>
+        <item>#ac6a3a</item>
+        <item>#8c512a</item>
+        <item>#9a5a33</item>
+        <item>#885b32</item>
+        <item>#824f30</item>
+        <item>#7d452c</item>
+        <item>#69371c</item>
+        <item>#683a20</item>
+        <item>#593218</item>
+        <item>#583218</item>
+        <item>#4f2817</item>
+        <item>#3a2d27</item>
+    </array>
+
+</resources>
